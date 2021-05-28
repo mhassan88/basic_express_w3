@@ -1,7 +1,12 @@
 {
-  "name": "week-3d",
-  "version": "0.0.0",
+  "name": "comp229-m2021-week3",
+  "version": "0.0.1",
   "private": true,
+  "description": "Demo Project for COMP229 - Week 3",
+  "main": "index.js",
+  "repository": "https://github.com/CentennialCollege/COMP229-M2021-Week3d.git",
+  "author": "Tom Tsiliopoulos <tsiliopoulos@hotmail.com>",
+  "license": "MIT",
   "scripts": {
     "start": "node index.js"
   },
