@@ -5,7 +5,7 @@
   "description": "Demo Project for COMP229 - Week 3",
   "main": "index.js",
   "repository": "https://github.com/mhassan88/basic_express_w3",
-  "author": "",
+  "author": "Muhammad Hassan",
   "license": "MIT",
   "scripts": {
     "start": "node index.js"

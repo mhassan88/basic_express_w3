@@ -4,8 +4,8 @@
   "private": true,
   "description": "Demo Project for COMP229 - Week 3",
   "main": "index.js",
-  "repository": "https://github.com/mhassan88/basic_express_w3",
-  "author": "",
+  "repository": "https://github.com/CentennialCollege/COMP229-M2021-Week3d.git",
+  "author": "Tom Tsiliopoulos <tsiliopoulos@hotmail.com>",
   "license": "MIT",
   "scripts": {
     "start": "node index.js"
